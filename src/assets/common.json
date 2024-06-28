@@ -92,7 +92,7 @@
             {
                 "title" : "포트폴리오 사이트",
                 "date" : "2024.06",
-                "info" : "포트폴리오 용도로 제작한 웹사이트입니다.<br/><br/>상태관리 라이브러리 Pinia 사용하였고, <br/>기본적인 데이터는 common.json을 생성하여, 각 section 별로 분리하여 작성하였습니다. <br/>감사합니다",
+                "info" : "포트폴리오 용도로 제작한 웹사이트입니다.<br/><br/>상태관리 라이브러리 Pinia 사용하였고, <br/>기본적인 데이터는 common.json을 생성하여, 각 section 별로 분리하여 작성하였습니다.",
                 "imgUrl" : ["img_pro01.png", "img_pro02.jpg","img_pro03.png"],
                 "proInfo" : [
                     {  

@@ -94,7 +94,7 @@ export const useStore = defineStore('main', {
         },
         //이미지 url
         imglink(url){
-            if (url !== '') return url = `/src/assets/images/${url}`;
+            if (url !== '') return url = `https://raw.githubusercontent.com/imhana503/portfolio/master/src/assets/images/${url}`;
         },
     }  
 })
