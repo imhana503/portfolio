@@ -1,0 +1,278 @@
+{
+    "header" : {
+        "menu":{
+            "nav" : ["Home", "About Me", "Skill", "Archiving", "ToyProject", "Career"]
+        }
+    },
+    "home" : {
+        "sectionTitle" : "Home",
+        "data" : {
+            "title" : "Web Publisher Limhana",
+            "text" : "I'm Web Publisher. 8 Years Experience Working.",
+            "link" : "About Me"
+        } 
+    },
+    "aboutMe" : {
+        "sectionTitle" : "ABOUT ME",
+        "data" : [
+            {
+                "title" : "이름",
+                "value" : ["임하나"]
+            },
+            {
+                "title" : "생년월일",
+                "value" : ["1989.12.25"]
+            },
+            {
+                "title" : "연락처",
+                "value" :  ["010-9291-5190", "imhana503@gmail.com"]
+            }
+        ]
+    },
+    "skiil" : {
+        "sectionTitle" : "SKILL",      
+        "data" : [
+            {  
+                "title" : "HTML",
+                "imgUrl" : "img_skill_html.webp"
+    
+            },
+            {
+                "title" : "CSS",
+                "imgUrl" : "img_skill_css.webp"
+    
+            },
+            {
+                "title" : "SASS",
+                "imgUrl" : "img_skill_sass.png"
+    
+            },
+            {
+                "title" : "JQUERY",
+                "imgUrl" : "img_skill_jquery.webp"
+    
+            },
+            {
+                "title" : "JAVASCRIPT",
+                "imgUrl" : "img_skill_js.png"
+    
+            },
+            {
+                "title" : "VUE",
+                "imgUrl" : "img_skill_vue.png"
+    
+            },
+            {
+                "title" : "REACT",
+                "imgUrl" : "img_skill_react.png"
+    
+            }
+        ]
+    },
+    "archiving" : {
+        "sectionTitle" : "ARCHIVING",      
+        "data" :[
+            {
+                "title" : "GitHub",
+                "url" : "https://github.com/imhana503",
+                "text" : "소스 코드 저장소",
+                "desc" : ["과거 프로젝트 프로젝트 소스 코드", "토이프로젝트 소스 코드"]
+            },
+            {
+                "title" : "tistory",
+                "url" : "https://jihana.tistory.com/",
+                "text" : "스터디 블로그",
+                "desc" : ["공부한 내용을 작성한 기록"]
+            }
+        ]    
+    },
+    "project" : {
+        "sectionTitle" : "TOYPROJECT",      
+        "data" : [
+            {
+                "title" : "포트폴리오 사이트",
+                "date" : "2024.06",
+                "info" : "포트폴리오 용도로 제작한 웹사이트입니다.<br/><br/>상태관리 라이브러리 Pinia 사용하였고, <br/>기본적인 데이터는 common.json을 생성하여, 각 section 별로 분리하여 작성하였습니다. <br/>감사합니다",
+                "imgUrl" : ["img_pro01.png", "img_pro02.jpg","img_pro03.png"],
+                "proInfo" : [
+                    {  
+                        "keys" : "주요 기능",
+                        "values" : ["포트폴리오 사이트"]                
+                    },
+                    {  
+                        "keys" : "URL",
+                        "values" : ["https://github.com/imhana503"]                
+                    },
+                    {
+                        "keys" : "기술스택",
+                        "values" : ["Vue", "pinia", "Scss", "vue3-carousel", "fontawesome"]
+                    }
+                ]
+            }
+        ]
+       
+    },
+    "career" : {
+        "sectionTitle" : "CAREER",    
+        "data" :[
+            {
+                "title" : "플립커뮤니케이션즈",
+                "date" : "2023.06 -",
+                "imgUrl" : "ico_logo_pulip.svg",
+                "desc" : ["플립커뮤니케이션즈는 디지털 마케팅 솔루션을 제공하는 기업으로, 소셜 미디어 마케팅, 콘텐츠 제작, 온라인 광고 등 다양한 디지털 마케팅 서비스를 제공합니다."],
+                "works" :[
+                    {
+                        "proTitle" : "신한EZ 차세대",
+                        "proDate" : "2023-07 - 2024-04",
+                        "proDesc" : ["HTML", "CSS", "web accessibility"]
+                    }
+                ]
+            },
+            {
+                "title" : "프리랜서",
+                "date" : "2018.07 - 2023.06",
+                "imgUrl" : "ico_logo_wing.png",
+                "desc" : ["프리랜서 경력"],
+                "works" :[
+                    {
+                        "proTitle" : "KB스타플랫폼 고도화",
+                        "proDate" : "2023-01 - 2023-06",
+                        "proDesc" : ["HTML", "SASS", "JQUERY"]
+                    },
+                    {
+                        "proTitle" : "애큐온캐피탈 디지털채널 로그인 및 인증방법개선 프로젝트",
+                        "proDate" : "2022-09 - 2022-12",
+                        "proDesc" : ["HTML", "CSS", "JQUERY"]
+                    },
+                    {
+                        "proTitle" : "교보생명 모바일 통합 구축",
+                        "proDate" : "2022-03 - 2022-09",
+                        "proDesc" : ["HTML", "CSS",  "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "씨티은행 KIVS Browser 호환성 작업",
+                        "proDate" : "2021-10 - 2022-026",
+                        "proDesc" : ["HTML", "CSS", "JQUERY"]
+                    },
+                    {
+                        "proTitle" : "제주항공 디지털채널 업그레이드",
+                        "proDate" : "2020-08 - 2020-12",
+                        "proDesc" : ["HTML", "SASS"]
+                    },
+                    {
+                        "proTitle" : "삼성카드 커뮤니티 운영화",
+                        "proDate" : "2018-07 - 2020-01",
+                        "proDesc" : ["HTML", "CSS", "JQUERY"]
+                    }
+                ]
+            },
+            {
+                "title" : "HIWEB",
+                "date" : "2014.09 - 2018.04",
+                "imgUrl" : "ico_logo_hiweb.jpg",
+                "desc" : ["HIWEB은 한국의 웹 서비스 제작 및 개발 회사로, 다양한 웹사이트 및 앱을 제작하고 관리하는 일을 하고 있습니다."],
+                "works" :[
+                    {
+                        "proTitle" : "하나은행 기업뱅킹 운영&구축(PC,Mobile)",
+                        "proDate" : "2017-11 - 2018-04",
+                        "proDesc" : ["HTML", "CSS", "JQUERY", "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "현대자동차 반응형",
+                        "proDate" : "2017-09 - 2017-11",
+                        "proDesc" : ["HTML", "CSS"]
+                    },
+                    {
+                        "proTitle" : "SBC중소기업연수원 (PC,Mobile)",
+                        "proDate" : "2017-05 - 2017-08",
+                        "proDesc" : ["HTML", "CSS", "JQUERY", "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "LG유플러스 Roaming(PC)",
+                        "proDate" : "2017-03 - 2017-05",
+                        "proDesc" : ["HTML", "CSS", "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "현대아울렛(PC,Mobile)",
+                        "proDate" : "2016-12 - 2017-03",
+                        "proDesc" : ["HTML", "CSS", "JQUERY"]
+                    },
+                    {
+                        "proTitle" : "미래에셋대우(PC)",
+                        "proDate" : "2016-09 - 2016-12",
+                        "proDesc" : ["HTML", "CSS", "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "LG전자 글로벌 확산(PC)",
+                        "proDate" : "2015-11 - 2016-06",
+                        "proDesc" : ["HTML", "CSS"]
+                    },
+                    {
+                        "proTitle" : "호스피스완화의료(PC)",
+                        "proDate" : "2015-10 - 2015-11",
+                        "proDesc" : ["HTML", "CSS", "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "SM면세점쇼핑몰(PC)",
+                        "proDate" : "2015-08 - 2015-10",
+                        "proDesc" : ["HTML", "CSS"]
+                    },
+                    {
+                        "proTitle" : "NH투자증권(반응형)",
+                        "proDate" : "2015-05 - 2015-08",
+                        "proDesc" : ["HTML", "CSS", "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "HeVa_Core 쇼핑몰(PC)",
+                        "proDate" : "2015-04 - 2015-05",
+                        "proDesc" : ["HTML", "CSS"]
+                    },
+                    {
+                        "proTitle" : "두원공과대학교(PC)",
+                        "proDate" : "2015-03 - 2015-05",
+                        "proDesc" : ["web accessibility"]
+                    },
+                    {
+                        "proTitle" : "중국CJ쇼핑몰(Mobile)",
+                        "proDate" : "2015-01 - 2015-02",
+                        "proDesc" : ["HTML", "CSS"]
+                    },
+                    {
+                        "proTitle" : "코오롱그룹(PC, Mobile)",
+                        "proDate" : "2014-11 - 2015-01",
+                        "proDesc" : ["HTML", "CSS", "web accessibility"]
+                    },
+                    {
+                        "proTitle" : "맘스클럽(PC, Mobile)",
+                        "proDate" : "2014-10 - 2014-11",
+                        "proDesc" : ["HTML", "CSS"]
+                    }
+                ]
+            },
+            {
+                "title" : "이룸디지털",
+                "date" : "2014.01 - 2014.08",
+                "imgUrl" : "ico_logo_erum.gif",
+                "desc" : ["그래픽디자인/웹에이젼시 /웹 솔루션 개발"],
+                "works" :[
+                    {
+                        "proTitle" : "수암제약 홈페이지 구축(PC)",
+                        "proDate" : "2014-06 - 2014-08",
+                        "proDesc" : ["HTML", "CSS", "JQUERY"]
+                    },
+                    {
+                        "proTitle" : "템플릿 작업(PC)",
+                        "proDate" : "2014-03 - 2014-05",
+                        "proDesc" : ["HTML", "CSS", "JQUERY"]
+                    },
+                    {
+                        "proTitle" : "하모니캠페인(PC)",
+                        "proDate" : "2014-06 - 2014-08",
+                        "proDesc" : ["HTML", "CSS", "JQUERY", "DESIGN"]
+                    }
+                ]
+            }
+        ]
+    }
+}
+
